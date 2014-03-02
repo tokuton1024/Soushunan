@@ -50,8 +50,13 @@
 				バス　京都市バス千本出水駅より徒歩1分<br/>
 			   </td>
 			</tr>
-		</table>
+            <tr>
+                <td>
 				<p id="access_info_img"><iframe width="100%" height="320" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.jp/maps?q=288-2+Higashishinmeich%C5%8D+Kamigyo-ku+Kyoto-shi+Kyoto-fu&amp;sll=35.021566,135.744084&amp;hl=jp&amp;brcurrent=3,0x60010875f5756609:0xef53d8dad297d521,0&amp;ie=UTF8&amp;hq=&amp;hnear=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E6%9D%B1%E7%A5%9E%E6%98%8E%E7%94%BA%EF%BC%92%EF%BC%98%EF%BC%98&amp;ll=35.021566,135.744084&amp;spn=0.004147,0.009238&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.jp/maps?q=288-2+Higashishinmeich%C5%8D+Kamigyo-ku+Kyoto-shi+Kyoto-fu&amp;sll=35.021566,135.744084&amp;hl=en&amp;brcurrent=3,0x60010875f5756609:0xef53d8dad297d521,0&amp;ie=UTF8&amp;hq=&amp;hnear=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E6%9D%B1%E7%A5%9E%E6%98%8E%E7%94%BA%EF%BC%92%EF%BC%98%EF%BC%98&amp;ll=35.021566,135.744084&amp;spn=0.004147,0.009238&amp;t=m&amp;z=14&amp;source=embed" style="color:#C987FF;text-align:left">大きな地図で見る</a></small></p>
+                </td>
+            </tr>
+		</table>
+
         </tr>
         <tr>
             <td colspan="3"><p class="footer">© 2013 Soushunan. All rights reserved.</p></td>
