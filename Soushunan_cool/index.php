@@ -47,9 +47,9 @@
         	<div style="float:right;margin-right:2px;margin-top:3px;">毎月第三木曜日に "千円コンサート" 開催中</div>
             <div style="clear:right;"></div>
             <div style="float:right;margin-right:2px;margin-top:9px;">
-            	<a href="http://twitter.com/soushunan"><img src="<?php bloginfo('template_url');?>/index/twitter.png" style="height:26px;float:left;" /></a>
-                <a href="http://www.facebook.com/soushunan"><img src="<?php bloginfo('template_url');?>/index/facebook.png" style="height:26px;float:left;" /></a>
-                <a href="http://www.youtube.com/watch?v=WBAuNmNx65Q"><img src="<?php bloginfo('template_url');?>/index/youtube.png" style="height:26px;float:left;" /></a>
+            	<a href="http://twitter.com/soushunan" target="_blank"><img src="<?php bloginfo('template_url');?>/index/twitter.png" style="height:26px;float:left;" /></a>
+                <a href="http://www.facebook.com/soushunan" target="_blank" ><img src="<?php bloginfo('template_url');?>/index/facebook.png" style="height:26px;float:left;" /></a>
+                <a href="http://www.youtube.com/watch?v=WBAuNmNx65Q" target="_blank"><img src="<?php bloginfo('template_url');?>/index/youtube.png" style="height:26px;float:left;" /></a>
             </div>
         </td>
     </tr>
