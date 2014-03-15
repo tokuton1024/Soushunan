@@ -22,7 +22,7 @@
     	<td style="height:202px;">
         	<div style="margin-left:41px;margin-right:85px;">
             
-            <img src="<?php bloginfo('template_url');?>/link/link.png" style="height:202px;width:41px;float:left;" />
+            <img src="<?php bloginfo('template_url');?>/link/media.png" style="height:202px;width:41px;float:left;" />
             <a href = "<?php home_url()?>/jp/contact/">
             	<img src="<?php bloginfo('template_url');?>/link/access.png" style="height:202px;width:41px;float:left;" />
             </a>
