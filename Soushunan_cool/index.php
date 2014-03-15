@@ -14,29 +14,31 @@
 		<td rowspan="4" id="right"></td>
     </tr>
 	<tr>
-    	<td style="height:148px;width:372px;"><div style="padding-left:19px;padding-right:64px;"><img src="<?php bloginfo('template_url');?>/title/icon.png" style="width:289px;height:148px;"/></div>
+    	<td style="height:148px;width:372px;"><div style="padding-left:19px;padding-right:64px;"><img src="<?php bloginfo('template_url');?>/title/icon.png" class="IndexIcon"/></div>
         </td>
-       	<td id="middle" rowspan="2" style="width:528px;"><img src="<?php bloginfo('template_url');?>/img/index-image.JPG" style="height:350px;width:528px;" /></td>
+       	<td id="middle" rowspan="2" style="width:528px;"><img src="<?php bloginfo('template_url');?>/img/index-image.JPG" style="height:350px;width:500px;" /></td>
     </tr>
 	<tr>
     	<td style="height:202px;">
         	<div style="margin-left:41px;margin-right:85px;">
-            
-            <img src="<?php bloginfo('template_url');?>/link/media.png" style="height:202px;width:41px;float:left;" />
+            <a href = "<?php home_url()?>/jp/blog/">
+            <img src="<?php bloginfo('template_url');?>/link/blog.png" class = "link" />
+            </a>
+            <img src="<?php bloginfo('template_url');?>/link/media.png" class = "link" />
             <a href = "<?php home_url()?>/jp/contact/">
-            	<img src="<?php bloginfo('template_url');?>/link/access.png" style="height:202px;width:41px;float:left;" />
+            	<img src="<?php bloginfo('template_url');?>/link/access.png" class = "link" />
             </a>
             <a href = "<?php home_url()?>/jp/kotoplay/">
-            	<img src="<?php bloginfo('template_url');?>/link/trykoto.png" style="height:202px;width:41px;float:left;" />
+            	<img src="<?php bloginfo('template_url');?>/link/trykoto.png" class = "link" />
             </a>
             <a href = "<?php home_url()?>/jp/koto/">
-            	<img src="<?php bloginfo('template_url');?>/link/koto.png" style="height:202px;width:41px;float:left;" />
+            	<img src="<?php bloginfo('template_url');?>/link/koto.png" class = "link" />
             </a>
             <a href = "<?php home_url()?>/jp/about/">
-            	<img src="<?php bloginfo('template_url');?>/link/soushunan.png" style="height:202px;width:41px;float:left;" />
+            	<img src="<?php bloginfo('template_url');?>/link/soushunan.png" class = "link" />
             </a>
             <a href = "<?php home_url()?>/jp/category/news/">
-            	<img src="<?php bloginfo('template_url');?>/link/news.png" style="height:202px;width:41px;float:left;" />
+            	<img src="<?php bloginfo('template_url');?>/link/news.png" class = "link" />
             </a>
             </div>
         </td>
